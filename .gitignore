@@ -1,0 +1,36 @@
+# Python virtual environment
+scopf-env/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data files (temporary or generated)
+*.csv
+!requirements.txt
+
+# Data file at root (keep in data/ folder only)
+/pglib_opf_case57_ieee.m
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
